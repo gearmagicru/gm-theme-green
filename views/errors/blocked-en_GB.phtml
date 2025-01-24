@@ -1,0 +1,33 @@
+<?php
+/**
+ * GM Panel
+ * 
+ * Шаблон ошибки (общий).
+ * 
+ * @author Anton Tivonenko <anton.tivonenko@gmail.com>
+ * @copyright Copyright (c) 2015 GearMagic Web-студия
+ * @package Theme
+ * @subpackage Green
+ * @since 1.0
+ */
+?>
+<!DOCTYPE HTML>
+<html lang="ru-RU">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>IP address is Blocked</title>
+    <link type="image/png" href="<?= Gm::getAlias('@theme::/assets/ico/favicon.ico') ?>" rel="icon" sizes="16x16">
+    <link rel="stylesheet" href="<?= Gm::getAlias('@theme::/assets/css/error.css') ?>" />
+</head>
+
+<body class="gm-error gm-error_connect">
+    <div class="gm-error__wrapper">
+        <div class="gm-error__text">
+            <div class="gm-error__icon gm-error__icon-connect"><?= $exception->getDispatch() ?></div>
+        </div>
+    </div>
+</body>
+
+</html>

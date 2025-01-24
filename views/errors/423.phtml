@@ -1,0 +1,35 @@
+<?php
+/**
+ * GM Panel
+ * 
+ * Шаблон ошибки 423 (Locked).
+ * 
+ * @author Anton Tivonenko <anton.tivonenko@gmail.com>
+ * @copyright Copyright (c) 2015 GearMagic Web-студия
+ * @package Theme
+ * @subpackage Green
+ * @since 1.0
+ */
+?>
+<!DOCTYPE HTML>
+<html lang="ru-RU">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ошибка 423 (Страница заблокирована)</title>
+    <link type="image/png" href="<?= Gm::getAlias('@theme::/assets/ico/favicon.ico') ?>" rel="icon" sizes="16x16">
+    <link rel="stylesheet" href="<?= Gm::getAlias('@theme::/assets/css/error.css') ?>" />
+</head>
+
+<body class="gm-error">
+    <div class="gm-error__wrapper">
+        <h1 class="gm-error__header">Ошибка 423 (Страница заблокирована)</h1>
+        <div class="gm-error__text">
+            <p>К сожалению, такой страницы не существует.</p>
+            <p>Вероятно, у Вас нет доступа или Ваш IP-адрес добавлен в чёрный список.</p>
+        </div>
+    </div>
+</body>
+
+</html>
