@@ -1,4 +1,4 @@
-# <img src="https://github.com/gearmagicru/gm-theme-green/blob/master/thumb.png?raw=true" align="absmiddle"> Тема Green для Панели управления ![#217346](GM Panel)
+# <img src="https://github.com/gearmagicru/gm-theme-green/blob/master/thumb.png?raw=true" align="absmiddle"> Тема Green для Панели управления [#217346](GM Panel)
 
 Тема Green основана на нейтральной настраиваемой теме для классического набора инструментов Ext JS.
 
