@@ -4,11 +4,11 @@
     "keywords": [
         "gm",
         "gearmagic",
-        "gm panel",
+        "GM Panel",
         "theme"
     ],
     "homepage": "https://github.com/gearmagicru/gm-theme-green",
-    "type": "gm-theme",
+    "type": "theme",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
