@@ -43,10 +43,10 @@ class Asset extends \Gm\Theme\ThemeAsset
                 // Font Awesome
                 'fontawesome' => [
                     'position' => ClientScript::POS_HEAD,
-                    'vendor'   => true,
+                    'theme'    => true,
                     'noCache'  => true,
                     'css'       => [
-                        'fontawesome' => ['/fontawesome/css/all.min.css']
+                        'fontawesome' => ['/vendors/fontawesome/css/all.min.css']
                     ]
                 ],
                 // Application
