@@ -1,4 +1,4 @@
-# <img src="https://github.com/gearmagicru/gm-theme-green/blob/master/thumb.png?raw=true" align="absmiddle"> Тема Green для Панели управления GM Panel
+# <img src="https://github.com/gearmagicru/gm-theme-green/blob/master/thumb.png?raw=true" align="absmiddle"> Тема "Green" для GM Panel
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/gearmagicru/gm-theme-green.svg)](https://packagist.org/packages/gearmagicru/gm-theme-green)
 [![Total Downloads](https://img.shields.io/packagist/dt/gearmagicru/gm-theme-green.svg)](https://packagist.org/packages/gearmagicru/gm-theme-green)
