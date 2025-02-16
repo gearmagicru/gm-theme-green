@@ -2,6 +2,7 @@
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/gearmagicru/gm-theme-green.svg)](https://packagist.org/packages/gearmagicru/gm-theme-green)
 [![Total Downloads](https://img.shields.io/packagist/dt/gearmagicru/gm-theme-green.svg)](https://packagist.org/packages/gearmagicru/gm-theme-green)
+[![Author](https://img.shields.io/badge/author-anton.tivonenko@gmail.com-blue.svg)](mailto:anton.tivonenko@gmail)
 [![Source Code](https://img.shields.io/badge/source-gearmagicru/gm--theme--green-blue.svg)](https://github.com/gearmagicru/gm-theme-green)
 [![Software License](https://img.shields.io/badge/license-GPL--2.0-brightgreen.svg)](https://github.com/gearmagicru/gm-theme-green/blob/master/LICENSE)
 
