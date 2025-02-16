@@ -1,35 +1,35 @@
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:170 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:170 */
 .x-tab-bar-flat-light-scroller .x-box-scroller-body-horizontal {
     margin-left: 15px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:183 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:183 */
 .x-tab-bar-flat-light-vertical-scroller .x-box-scroller-body-vertical {
     margin-top: 14px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:188 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:188 */
 .x-box-scroller-tab-bar-flat-light {
     cursor: pointer;
     color: #fff;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     opacity: 0.5;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:198 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:198 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-hover {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
     opacity: 0.6;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:204 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:204 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-pressed {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
     opacity: 0.7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:210 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:210 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-disabled {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
     opacity: 0.25;
     cursor: default;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:220 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:220 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-left,
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-right {
     width: 16px;
@@ -37,21 +37,21 @@
     top: 50%;
     margin-top: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:247 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:247 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-left {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/flat-light-scroll-left.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:272 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:272 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-right {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/flat-light-scroll-right.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:299 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:299 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-top,
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-bottom {
     height: 16px;
@@ -59,116 +59,116 @@
     left: 50%;
     margin-left: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:326 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:326 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-top {
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/flat-light-scroll-top.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:351 */
 .x-box-scroller-tab-bar-flat-light.x-box-scroller-bottom {
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/flat-light-scroll-bottom.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:483 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:483 */
 .x-tab-bar-more-icon {
     background-image: url(images/tab-bar/flat-light-more.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:500 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:500 */
 .x-tab-bar-plain.x-tab-bar-flat-light-scroller .x-box-scroller-body-horizontal {
     margin-left: 16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:506 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:506 */
 .x-tab-bar-plain.x-tab-bar-flat-light-vertical-scroller .x-box-scroller-body-vertical {
     margin-top: 16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:511 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:511 */
 .x-tab-bar-plain .x-box-scroller-tab-bar-flat-light {
     color: #b0b0b0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:559 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:559 */
 .x-tab-bar-flat-light-top .x-box-scroller-tab-bar-flat-light {
     margin-top: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:563 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:563 */
 .x-tab-bar-flat-light-right .x-box-scroller-tab-bar-flat-light {
     margin-left: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:567 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:567 */
 .x-tab-bar-flat-light-bottom .x-box-scroller-tab-bar-flat-light {
     margin-top: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:571 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:571 */
 .x-tab-bar-flat-light-left .x-box-scroller-tab-bar-flat-light {
     margin-left: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:580 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:580 */
 .x-box-scroller-tab-bar-flat-light {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:586 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:586 */
 .x-box-scroller-tab-bar-flat-light .x-ie8 .x-box-scroller-plain {
     background-color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:598 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:598 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-flat-light.x-box-scroller-left {
     background-image: url(images/tab-bar/flat-light-plain-scroll-left.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:604 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:604 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-flat-light.x-box-scroller-right {
     background-image: url(images/tab-bar/flat-light-plain-scroll-right.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:610 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:610 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-flat-light.x-box-scroller-top {
     background-image: url(images/tab-bar/flat-light-plain-scroll-top.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:616 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:616 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-flat-light.x-box-scroller-bottom {
     background-image: url(images/tab-bar/flat-light-plain-scroll-bottom.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-flat-light-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-flat-light-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-flat-light-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-flat-light-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:27 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:27 */
 .x-box-scroller-tab-bar-flat-light {
     /* Цвет кнопок прокрутки вкладок */
     background-color: grey;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:32 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:32 */
 .x-tab-bar-flat-light {
     background-color: #f5f5f5;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:37 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:37 */
 .x-tab.x-tab-active.x-tab-flat-light {
     -webkit-box-shadow: px 0px 8px 4px rgba(34, 60, 80, 0.2);
     -moz-box-shadow: px 0px 8px 4px rgba(34, 60, 80, 0.2);
     box-shadow: 0px 0px 8px 4px rgba(34, 60, 80, 0.2);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-flat-top {
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -180,11 +180,11 @@
     border-style: solid;
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
 .x-tab-flat-top-mc {
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
 .x-nbr .x-tab-flat-top {
     padding: 0 !important;
     border-width: 0 !important;
@@ -196,63 +196,63 @@
     background-color: transparent !important;
     box-shadow: none !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
 .x-tab-flat-top-frameInfo {
     font-family: th-4-4-4-4-0-0-0-0-5-8-8-8;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
 .x-tab-flat-top-tl {
     background-position: 0 -8px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
 .x-tab-flat-top-tr {
     background-position: right -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-tab-flat-top-bl {
     background-position: 0 -16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
 .x-tab-flat-top-br {
     background-position: right -20px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
 .x-tab-flat-top-ml {
     background-position: 0 top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
 .x-tab-flat-top-mr {
     background-position: right top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
 .x-tab-flat-top-tc {
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
 .x-tab-flat-top-bc {
     background-position: 0 -4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
 .x-tab-flat-top-tr,
 .x-tab-flat-top-br,
 .x-tab-flat-top-mr {
     padding-right: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
 .x-tab-flat-top-tl,
 .x-tab-flat-top-bl,
 .x-tab-flat-top-ml {
     padding-left: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
 .x-tab-flat-top-tc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
 .x-tab-flat-top-bc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
 .x-tab-flat-top-tl,
 .x-tab-flat-top-bl,
 .x-tab-flat-top-tr,
@@ -263,23 +263,23 @@
 .x-tab-flat-top-mr {
     background-image: url(images/tab/tab-flat-top-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
 .x-tab-flat-top-ml,
 .x-tab-flat-top-mr {
     background-image: url(images/tab/tab-flat-top-sides.gif);
     background-repeat: repeat-y;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
 .x-tab-flat-top-mc {
     padding: 1px 4px 4px 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-flat-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:4px 4px 4px 4px, corners:url(images/tab/tab-flat-top-corners.gif), sides:url(images/tab/tab-flat-top-sides.gif)" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-flat-bottom {
     -moz-border-radius-topleft: 4px;
     -webkit-border-top-left-radius: 4px;
@@ -298,11 +298,11 @@
     border-style: solid;
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
 .x-tab-flat-bottom-mc {
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
 .x-nbr .x-tab-flat-bottom {
     padding: 0 !important;
     border-width: 0 !important;
@@ -314,63 +314,63 @@
     background-color: transparent !important;
     box-shadow: none !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
 .x-tab-flat-bottom-frameInfo {
     font-family: th-4-4-4-4-0-0-0-0-8-8-5-8;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
 .x-tab-flat-bottom-tl {
     background-position: 0 -8px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
 .x-tab-flat-bottom-tr {
     background-position: right -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-tab-flat-bottom-bl {
     background-position: 0 -16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
 .x-tab-flat-bottom-br {
     background-position: right -20px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
 .x-tab-flat-bottom-ml {
     background-position: 0 bottom;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
 .x-tab-flat-bottom-mr {
     background-position: right bottom;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
 .x-tab-flat-bottom-tc {
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
 .x-tab-flat-bottom-bc {
     background-position: 0 -4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
 .x-tab-flat-bottom-tr,
 .x-tab-flat-bottom-br,
 .x-tab-flat-bottom-mr {
     padding-right: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
 .x-tab-flat-bottom-tl,
 .x-tab-flat-bottom-bl,
 .x-tab-flat-bottom-ml {
     padding-left: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
 .x-tab-flat-bottom-tc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
 .x-tab-flat-bottom-bc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
 .x-tab-flat-bottom-tl,
 .x-tab-flat-bottom-bl,
 .x-tab-flat-bottom-tr,
@@ -381,23 +381,23 @@
 .x-tab-flat-bottom-mr {
     background-image: url(images/tab/tab-flat-bottom-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
 .x-tab-flat-bottom-ml,
 .x-tab-flat-bottom-mr {
     background-image: url(images/tab/tab-flat-bottom-sides.gif);
     background-repeat: repeat-y;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
 .x-tab-flat-bottom-mc {
     padding: 4px 4px 1px 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-flat-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:4px 4px 4px 4px, corners:url(images/tab/tab-flat-bottom-corners.gif), sides:url(images/tab/tab-flat-bottom-sides.gif)" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-flat-left {
     -moz-border-radius-topleft: 4px;
     -webkit-border-top-left-radius: 4px;
@@ -416,11 +416,11 @@
     border-style: solid;
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
 .x-tab-flat-left-mc {
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
 .x-nbr .x-tab-flat-left {
     padding: 0 !important;
     border-width: 0 !important;
@@ -432,63 +432,63 @@
     background-color: transparent !important;
     box-shadow: none !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
 .x-tab-flat-left-frameInfo {
     font-family: th-4-4-4-4-0-0-0-0-5-8-8-8;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
 .x-tab-flat-left-tl {
     background-position: 0 -8px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
 .x-tab-flat-left-tr {
     background-position: right -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-tab-flat-left-bl {
     background-position: 0 -16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
 .x-tab-flat-left-br {
     background-position: right -20px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
 .x-tab-flat-left-ml {
     background-position: 0 top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
 .x-tab-flat-left-mr {
     background-position: right top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
 .x-tab-flat-left-tc {
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
 .x-tab-flat-left-bc {
     background-position: 0 -4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
 .x-tab-flat-left-tr,
 .x-tab-flat-left-br,
 .x-tab-flat-left-mr {
     padding-right: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
 .x-tab-flat-left-tl,
 .x-tab-flat-left-bl,
 .x-tab-flat-left-ml {
     padding-left: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
 .x-tab-flat-left-tc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
 .x-tab-flat-left-bc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
 .x-tab-flat-left-tl,
 .x-tab-flat-left-bl,
 .x-tab-flat-left-tr,
@@ -499,23 +499,23 @@
 .x-tab-flat-left-mr {
     background-image: url(images/tab/tab-flat-left-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
 .x-tab-flat-left-ml,
 .x-tab-flat-left-mr {
     background-image: url(images/tab/tab-flat-left-sides.gif);
     background-repeat: repeat-y;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
 .x-tab-flat-left-mc {
     padding: 1px 4px 4px 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-flat-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:4px 4px 4px 4px, corners:url(images/tab/tab-flat-left-corners.gif), sides:url(images/tab/tab-flat-left-sides.gif)" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-flat-right {
     -moz-border-radius-topleft: 4px;
     -webkit-border-top-left-radius: 4px;
@@ -534,11 +534,11 @@
     border-style: solid;
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
 .x-tab-flat-right-mc {
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
 .x-nbr .x-tab-flat-right {
     padding: 0 !important;
     border-width: 0 !important;
@@ -550,63 +550,63 @@
     background-color: transparent !important;
     box-shadow: none !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
 .x-tab-flat-right-frameInfo {
     font-family: th-4-4-4-4-0-0-0-0-5-8-8-8;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
 .x-tab-flat-right-tl {
     background-position: 0 -8px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
 .x-tab-flat-right-tr {
     background-position: right -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-tab-flat-right-bl {
     background-position: 0 -16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
 .x-tab-flat-right-br {
     background-position: right -20px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
 .x-tab-flat-right-ml {
     background-position: 0 top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
 .x-tab-flat-right-mr {
     background-position: right top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
 .x-tab-flat-right-tc {
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
 .x-tab-flat-right-bc {
     background-position: 0 -4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
 .x-tab-flat-right-tr,
 .x-tab-flat-right-br,
 .x-tab-flat-right-mr {
     padding-right: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
 .x-tab-flat-right-tl,
 .x-tab-flat-right-bl,
 .x-tab-flat-right-ml {
     padding-left: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
 .x-tab-flat-right-tc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
 .x-tab-flat-right-bc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
 .x-tab-flat-right-tl,
 .x-tab-flat-right-bl,
 .x-tab-flat-right-tr,
@@ -617,147 +617,147 @@
 .x-tab-flat-right-mr {
     background-image: url(images/tab/tab-flat-right-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
 .x-tab-flat-right-ml,
 .x-tab-flat-right-mr {
     background-image: url(images/tab/tab-flat-right-sides.gif);
     background-repeat: repeat-y;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
 .x-tab-flat-right-mc {
     padding: 1px 4px 4px 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-flat-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:4px 4px 4px 4px, corners:url(images/tab/tab-flat-right-corners.gif), sides:url(images/tab/tab-flat-right-sides.gif)" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1597 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1597 */
 .x-tab-flat {
     border-color: #b1cebe;
     cursor: pointer;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1656 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1656 */
 .x-tab-flat-top {
     margin: 1px 1px -1px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1665 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1665 */
 .x-tab-flat-top.x-tab-rotate-left {
     margin: 1px 0 -1px 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1687 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1687 */
 .x-tab-flat-top.x-tab-focus {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1716 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1716 */
 .x-tab-flat-top.x-tab-focus.x-tab-over {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1745 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1745 */
 .x-tab-flat-top.x-tab-focus.x-tab-active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1771 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1771 */
 .x-tab-flat-right {
     margin: 0 1px 1px -1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1780 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1780 */
 .x-tab-flat-right.x-tab-rotate-right {
     margin: 1px 1px 0 -1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1802 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1802 */
 .x-tab-flat-right.x-tab-focus {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1831 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1831 */
 .x-tab-flat-right.x-tab-focus.x-tab-over {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1860 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1860 */
 .x-tab-flat-right.x-tab-focus.x-tab-active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1886 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1886 */
 .x-tab-flat-bottom {
     margin: -1px 1px 1px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1895 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1895 */
 .x-tab-flat-bottom.x-tab-rotate-left {
     margin: -1px 0 1px 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1917 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1917 */
 .x-tab-flat-bottom.x-tab-focus {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1946 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1946 */
 .x-tab-flat-bottom.x-tab-focus.x-tab-over {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1975 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1975 */
 .x-tab-flat-bottom.x-tab-focus.x-tab-active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2001 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2001 */
 .x-tab-flat-left {
     margin: 0 -1px 1px 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2010 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2010 */
 .x-tab-flat-left.x-tab-rotate-right {
     margin: 1px -1px 0 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2032 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2032 */
 .x-tab-flat-left.x-tab-focus {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2061 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2061 */
 .x-tab-flat-left.x-tab-focus.x-tab-over {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2090 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2090 */
 .x-tab-flat-left.x-tab-focus.x-tab-active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2116 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2116 */
 .x-tab-button-flat {
     height: 16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2121 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2121 */
 .x-tab-inner-flat {
     font: normal 14px/16px "Roboto Condensed", helvetica, arial, verdana, sans-serif;
     color: #666;
     max-width: 100%;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2137 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2137 */
 .x-tab-icon-right > .x-tab-inner-flat,
 .x-tab-icon-left > .x-tab-inner-flat {
     max-width: calc(100% - 16px);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2145 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2145 */
 .x-tab-icon-el-flat {
     min-height: 16px;
     background-position: center center;
@@ -765,112 +765,112 @@
     line-height: 16px;
     color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2146 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2146 */
 .x-tab-icon-left > .x-tab-icon-el-flat,
 .x-tab-icon-right > .x-tab-icon-el-flat {
     width: 16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2151 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2151 */
 .x-tab-icon-top > .x-tab-icon-el-flat,
 .x-tab-icon-bottom > .x-tab-icon-el-flat {
     min-width: 16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2167 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2167 */
 .x-tab-icon-el-flat.x-tab-glyph {
     opacity: 0.5;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2180 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2180 */
 .x-ie8 .x-tab-icon-el-flat.x-tab-glyph {
     color: #ededed;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2187 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2187 */
 .x-tab-text.x-tab-icon-left > .x-tab-icon-el-flat {
     margin-right: 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2198 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2198 */
 .x-tab-text.x-tab-icon-right > .x-tab-icon-el-flat {
     margin-left: 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2209 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2209 */
 .x-tab-text.x-tab-icon-top > .x-tab-icon-el-flat {
     margin-bottom: 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2213 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2213 */
 .x-tab-text.x-tab-icon-bottom > .x-tab-icon-el-flat {
     margin-top: 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2218 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2218 */
 .x-tab-focus.x-tab-flat {
     border-color: #b1cebe;
     background-color: #dbdbdb;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2354 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2354 */
 .x-tab-over.x-tab-flat {
     border-color: #68a081;
     background-color: #b1cebe;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2410 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2410 */
 .x-tab-over.x-tab-flat .x-tab-inner-flat {
     color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2466 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2466 */
 .x-tab-focus.x-tab-over.x-tab-flat {
     border-color: #68a081;
     background-color: #b1cebe;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2581 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2581 */
 .x-tab.x-tab-active.x-tab-flat {
     border-color: #559471;
     background-color: white;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2637 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2637 */
 .x-tab.x-tab-active.x-tab-flat .x-tab-inner-flat {
     color: #444;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2657 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2657 */
 .x-tab.x-tab-active.x-tab-flat .x-tab-icon-el {
     color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2665 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2665 */
 .x-ie8 .x-tab.x-tab-active.x-tab-flat .x-tab-icon-el {
     color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2692 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2692 */
 .x-tab-focus.x-tab-active.x-tab-flat {
     border-color: #559471;
     background-color: white;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2808 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2808 */
 .x-tab.x-tab-disabled.x-tab-flat {
     border-color: #b1cebe;
     background-color: #dbdbdb;
     cursor: default;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2868 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2868 */
 .x-tab.x-tab-disabled.x-tab-flat .x-tab-inner-flat {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
     opacity: 0.3;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2892 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2892 */
 .x-tab.x-tab-disabled.x-tab-flat .x-tab-icon-el-flat {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     opacity: 0.5;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2897 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2897 */
 .x-tab.x-tab-disabled.x-tab-flat .x-tab-icon-el {
     color: #fff;
     opacity: 0.3;
     filter: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2912 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2912 */
 .x-ie8 .x-tab.x-tab-disabled.x-tab-flat .x-tab-icon-el {
     color: #e6e6e6;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2938 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2938 */
 .x-nbr .x-tab-flat {
     background-image: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-over .x-tab-flat-top-tl,
 .x-tab-over .x-tab-flat-top-bl,
 .x-tab-over .x-tab-flat-top-tr,
@@ -879,17 +879,17 @@
 .x-tab-over .x-tab-flat-top-bc {
     background-image: url(images/tab/tab-flat-top-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-over .x-tab-flat-top-ml,
 .x-tab-over .x-tab-flat-top-mr {
     background-image: url(images/tab/tab-flat-top-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-over .x-tab-flat-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-top-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus .x-tab-flat-top-tl,
 .x-tab-focus .x-tab-flat-top-bl,
 .x-tab-focus .x-tab-flat-top-tr,
@@ -898,17 +898,17 @@
 .x-tab-focus .x-tab-flat-top-bc {
     background-image: url(images/tab/tab-flat-top-focus-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus .x-tab-flat-top-ml,
 .x-tab-focus .x-tab-flat-top-mr {
     background-image: url(images/tab/tab-flat-top-focus-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus .x-tab-flat-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-top-focus-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-over .x-tab-flat-top-tl,
 .x-tab-focus.x-tab-over .x-tab-flat-top-bl,
 .x-tab-focus.x-tab-over .x-tab-flat-top-tr,
@@ -917,17 +917,17 @@
 .x-tab-focus.x-tab-over .x-tab-flat-top-bc {
     background-image: url(images/tab/tab-flat-top-focus-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-over .x-tab-flat-top-ml,
 .x-tab-focus.x-tab-over .x-tab-flat-top-mr {
     background-image: url(images/tab/tab-flat-top-focus-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-over .x-tab-flat-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-top-focus-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-active .x-tab-flat-top-tl,
 .x-tab.x-tab-active .x-tab-flat-top-bl,
 .x-tab.x-tab-active .x-tab-flat-top-tr,
@@ -936,17 +936,17 @@
 .x-tab.x-tab-active .x-tab-flat-top-bc {
     background-image: url(images/tab/tab-flat-top-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-active .x-tab-flat-top-ml,
 .x-tab.x-tab-active .x-tab-flat-top-mr {
     background-image: url(images/tab/tab-flat-top-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-active .x-tab-flat-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-top-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-active .x-tab-flat-top-tl,
 .x-tab-focus.x-tab-active .x-tab-flat-top-bl,
 .x-tab-focus.x-tab-active .x-tab-flat-top-tr,
@@ -955,17 +955,17 @@
 .x-tab-focus.x-tab-active .x-tab-flat-top-bc {
     background-image: url(images/tab/tab-flat-top-focus-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-active .x-tab-flat-top-ml,
 .x-tab-focus.x-tab-active .x-tab-flat-top-mr {
     background-image: url(images/tab/tab-flat-top-focus-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-active .x-tab-flat-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-top-focus-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-disabled .x-tab-flat-top-tl,
 .x-tab.x-tab-disabled .x-tab-flat-top-bl,
 .x-tab.x-tab-disabled .x-tab-flat-top-tr,
@@ -974,17 +974,17 @@
 .x-tab.x-tab-disabled .x-tab-flat-top-bc {
     background-image: url(images/tab/tab-flat-top-disabled-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-disabled .x-tab-flat-top-ml,
 .x-tab.x-tab-disabled .x-tab-flat-top-mr {
     background-image: url(images/tab/tab-flat-top-disabled-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-disabled .x-tab-flat-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-top-disabled-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-over .x-tab-flat-right-tl,
 .x-tab-over .x-tab-flat-right-bl,
 .x-tab-over .x-tab-flat-right-tr,
@@ -993,17 +993,17 @@
 .x-tab-over .x-tab-flat-right-bc {
     background-image: url(images/tab/tab-flat-right-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-over .x-tab-flat-right-ml,
 .x-tab-over .x-tab-flat-right-mr {
     background-image: url(images/tab/tab-flat-right-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-over .x-tab-flat-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-right-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus .x-tab-flat-right-tl,
 .x-tab-focus .x-tab-flat-right-bl,
 .x-tab-focus .x-tab-flat-right-tr,
@@ -1012,17 +1012,17 @@
 .x-tab-focus .x-tab-flat-right-bc {
     background-image: url(images/tab/tab-flat-right-focus-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus .x-tab-flat-right-ml,
 .x-tab-focus .x-tab-flat-right-mr {
     background-image: url(images/tab/tab-flat-right-focus-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus .x-tab-flat-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-right-focus-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-over .x-tab-flat-right-tl,
 .x-tab-focus.x-tab-over .x-tab-flat-right-bl,
 .x-tab-focus.x-tab-over .x-tab-flat-right-tr,
@@ -1031,17 +1031,17 @@
 .x-tab-focus.x-tab-over .x-tab-flat-right-bc {
     background-image: url(images/tab/tab-flat-right-focus-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-over .x-tab-flat-right-ml,
 .x-tab-focus.x-tab-over .x-tab-flat-right-mr {
     background-image: url(images/tab/tab-flat-right-focus-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-over .x-tab-flat-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-right-focus-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-active .x-tab-flat-right-tl,
 .x-tab.x-tab-active .x-tab-flat-right-bl,
 .x-tab.x-tab-active .x-tab-flat-right-tr,
@@ -1050,17 +1050,17 @@
 .x-tab.x-tab-active .x-tab-flat-right-bc {
     background-image: url(images/tab/tab-flat-right-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-active .x-tab-flat-right-ml,
 .x-tab.x-tab-active .x-tab-flat-right-mr {
     background-image: url(images/tab/tab-flat-right-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-active .x-tab-flat-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-right-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-active .x-tab-flat-right-tl,
 .x-tab-focus.x-tab-active .x-tab-flat-right-bl,
 .x-tab-focus.x-tab-active .x-tab-flat-right-tr,
@@ -1069,17 +1069,17 @@
 .x-tab-focus.x-tab-active .x-tab-flat-right-bc {
     background-image: url(images/tab/tab-flat-right-focus-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-active .x-tab-flat-right-ml,
 .x-tab-focus.x-tab-active .x-tab-flat-right-mr {
     background-image: url(images/tab/tab-flat-right-focus-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-active .x-tab-flat-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-right-focus-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-disabled .x-tab-flat-right-tl,
 .x-tab.x-tab-disabled .x-tab-flat-right-bl,
 .x-tab.x-tab-disabled .x-tab-flat-right-tr,
@@ -1088,17 +1088,17 @@
 .x-tab.x-tab-disabled .x-tab-flat-right-bc {
     background-image: url(images/tab/tab-flat-right-disabled-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-disabled .x-tab-flat-right-ml,
 .x-tab.x-tab-disabled .x-tab-flat-right-mr {
     background-image: url(images/tab/tab-flat-right-disabled-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-disabled .x-tab-flat-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-right-disabled-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-over .x-tab-flat-bottom-tl,
 .x-tab-over .x-tab-flat-bottom-bl,
 .x-tab-over .x-tab-flat-bottom-tr,
@@ -1107,17 +1107,17 @@
 .x-tab-over .x-tab-flat-bottom-bc {
     background-image: url(images/tab/tab-flat-bottom-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-over .x-tab-flat-bottom-ml,
 .x-tab-over .x-tab-flat-bottom-mr {
     background-image: url(images/tab/tab-flat-bottom-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-over .x-tab-flat-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-bottom-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus .x-tab-flat-bottom-tl,
 .x-tab-focus .x-tab-flat-bottom-bl,
 .x-tab-focus .x-tab-flat-bottom-tr,
@@ -1126,17 +1126,17 @@
 .x-tab-focus .x-tab-flat-bottom-bc {
     background-image: url(images/tab/tab-flat-bottom-focus-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus .x-tab-flat-bottom-ml,
 .x-tab-focus .x-tab-flat-bottom-mr {
     background-image: url(images/tab/tab-flat-bottom-focus-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus .x-tab-flat-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-bottom-focus-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-over .x-tab-flat-bottom-tl,
 .x-tab-focus.x-tab-over .x-tab-flat-bottom-bl,
 .x-tab-focus.x-tab-over .x-tab-flat-bottom-tr,
@@ -1145,17 +1145,17 @@
 .x-tab-focus.x-tab-over .x-tab-flat-bottom-bc {
     background-image: url(images/tab/tab-flat-bottom-focus-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-over .x-tab-flat-bottom-ml,
 .x-tab-focus.x-tab-over .x-tab-flat-bottom-mr {
     background-image: url(images/tab/tab-flat-bottom-focus-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-over .x-tab-flat-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-bottom-focus-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-active .x-tab-flat-bottom-tl,
 .x-tab.x-tab-active .x-tab-flat-bottom-bl,
 .x-tab.x-tab-active .x-tab-flat-bottom-tr,
@@ -1164,17 +1164,17 @@
 .x-tab.x-tab-active .x-tab-flat-bottom-bc {
     background-image: url(images/tab/tab-flat-bottom-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-active .x-tab-flat-bottom-ml,
 .x-tab.x-tab-active .x-tab-flat-bottom-mr {
     background-image: url(images/tab/tab-flat-bottom-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-active .x-tab-flat-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-bottom-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-active .x-tab-flat-bottom-tl,
 .x-tab-focus.x-tab-active .x-tab-flat-bottom-bl,
 .x-tab-focus.x-tab-active .x-tab-flat-bottom-tr,
@@ -1183,17 +1183,17 @@
 .x-tab-focus.x-tab-active .x-tab-flat-bottom-bc {
     background-image: url(images/tab/tab-flat-bottom-focus-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-active .x-tab-flat-bottom-ml,
 .x-tab-focus.x-tab-active .x-tab-flat-bottom-mr {
     background-image: url(images/tab/tab-flat-bottom-focus-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-active .x-tab-flat-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-bottom-focus-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-disabled .x-tab-flat-bottom-tl,
 .x-tab.x-tab-disabled .x-tab-flat-bottom-bl,
 .x-tab.x-tab-disabled .x-tab-flat-bottom-tr,
@@ -1202,17 +1202,17 @@
 .x-tab.x-tab-disabled .x-tab-flat-bottom-bc {
     background-image: url(images/tab/tab-flat-bottom-disabled-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-disabled .x-tab-flat-bottom-ml,
 .x-tab.x-tab-disabled .x-tab-flat-bottom-mr {
     background-image: url(images/tab/tab-flat-bottom-disabled-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-disabled .x-tab-flat-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-bottom-disabled-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-over .x-tab-flat-left-tl,
 .x-tab-over .x-tab-flat-left-bl,
 .x-tab-over .x-tab-flat-left-tr,
@@ -1221,17 +1221,17 @@
 .x-tab-over .x-tab-flat-left-bc {
     background-image: url(images/tab/tab-flat-left-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-over .x-tab-flat-left-ml,
 .x-tab-over .x-tab-flat-left-mr {
     background-image: url(images/tab/tab-flat-left-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-over .x-tab-flat-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-left-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus .x-tab-flat-left-tl,
 .x-tab-focus .x-tab-flat-left-bl,
 .x-tab-focus .x-tab-flat-left-tr,
@@ -1240,17 +1240,17 @@
 .x-tab-focus .x-tab-flat-left-bc {
     background-image: url(images/tab/tab-flat-left-focus-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus .x-tab-flat-left-ml,
 .x-tab-focus .x-tab-flat-left-mr {
     background-image: url(images/tab/tab-flat-left-focus-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus .x-tab-flat-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-left-focus-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-over .x-tab-flat-left-tl,
 .x-tab-focus.x-tab-over .x-tab-flat-left-bl,
 .x-tab-focus.x-tab-over .x-tab-flat-left-tr,
@@ -1259,17 +1259,17 @@
 .x-tab-focus.x-tab-over .x-tab-flat-left-bc {
     background-image: url(images/tab/tab-flat-left-focus-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-over .x-tab-flat-left-ml,
 .x-tab-focus.x-tab-over .x-tab-flat-left-mr {
     background-image: url(images/tab/tab-flat-left-focus-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-over .x-tab-flat-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-left-focus-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-active .x-tab-flat-left-tl,
 .x-tab.x-tab-active .x-tab-flat-left-bl,
 .x-tab.x-tab-active .x-tab-flat-left-tr,
@@ -1278,17 +1278,17 @@
 .x-tab.x-tab-active .x-tab-flat-left-bc {
     background-image: url(images/tab/tab-flat-left-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-active .x-tab-flat-left-ml,
 .x-tab.x-tab-active .x-tab-flat-left-mr {
     background-image: url(images/tab/tab-flat-left-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-active .x-tab-flat-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-left-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-active .x-tab-flat-left-tl,
 .x-tab-focus.x-tab-active .x-tab-flat-left-bl,
 .x-tab-focus.x-tab-active .x-tab-flat-left-tr,
@@ -1297,17 +1297,17 @@
 .x-tab-focus.x-tab-active .x-tab-flat-left-bc {
     background-image: url(images/tab/tab-flat-left-focus-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-active .x-tab-flat-left-ml,
 .x-tab-focus.x-tab-active .x-tab-flat-left-mr {
     background-image: url(images/tab/tab-flat-left-focus-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-active .x-tab-flat-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-left-focus-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-disabled .x-tab-flat-left-tl,
 .x-tab.x-tab-disabled .x-tab-flat-left-bl,
 .x-tab.x-tab-disabled .x-tab-flat-left-tr,
@@ -1316,24 +1316,24 @@
 .x-tab.x-tab-disabled .x-tab-flat-left-bc {
     background-image: url(images/tab/tab-flat-left-disabled-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-disabled .x-tab-flat-left-ml,
 .x-tab.x-tab-disabled .x-tab-flat-left-mr {
     background-image: url(images/tab/tab-flat-left-disabled-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-disabled .x-tab-flat-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-flat-left-disabled-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2981 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2981 */
 .x-tab-flat-tl,
 .x-tab-flat-bl,
 .x-tab-flat-tr,
 .x-tab-flat-br {
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)";
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2991 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2991 */
 .x-tab-flat .x-tab-close-btn {
     top: 2px;
     right: 2px;
@@ -1341,336 +1341,336 @@
     height: 12px;
     background: url(images/tab/tab-flat-close.png) 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3013 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3013 */
 .x-tab-flat .x-tab-close-btn-over {
     background-position: -12px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3023 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3023 */
 .x-tab-flat .x-tab-close-btn-pressed {
     background-position: -24px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3082 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3082 */
 .x-tab-flat.x-tab-active .x-tab-close-btn {
     background-position: 0 -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3087 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3087 */
 .x-tab-flat.x-tab-active .x-tab-close-btn-over {
     background-position: -12px -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3093 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3093 */
 .x-tab-flat.x-tab-active .x-tab-close-btn-pressed {
     background-position: -24px -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3115 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3115 */
 .x-tab-flat.x-tab-disabled .x-tab-close-btn {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
     opacity: 0.3;
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3142 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3142 */
 .x-tab-closable.x-tab-flat .x-tab-button {
     padding-right: 15px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-flat-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-top-focus-corners.gif), sides:url(images/tab/tab-flat-top-focus-sides.gif), frame-bg:url(images/tab/tab-flat-top-focus-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-flat-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-right-focus-corners.gif), sides:url(images/tab/tab-flat-right-focus-sides.gif), frame-bg:url(images/tab/tab-flat-right-focus-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-flat-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-bottom-focus-corners.gif), sides:url(images/tab/tab-flat-bottom-focus-sides.gif), frame-bg:url(images/tab/tab-flat-bottom-focus-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-flat-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-left-focus-corners.gif), sides:url(images/tab/tab-flat-left-focus-sides.gif), frame-bg:url(images/tab/tab-flat-left-focus-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-over.x-tab-flat-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-top-over-corners.gif), sides:url(images/tab/tab-flat-top-over-sides.gif), frame-bg:url(images/tab/tab-flat-top-over-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-over.x-tab-flat-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-right-over-corners.gif), sides:url(images/tab/tab-flat-right-over-sides.gif), frame-bg:url(images/tab/tab-flat-right-over-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-over.x-tab-flat-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-bottom-over-corners.gif), sides:url(images/tab/tab-flat-bottom-over-sides.gif), frame-bg:url(images/tab/tab-flat-bottom-over-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-over.x-tab-flat-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-left-over-corners.gif), sides:url(images/tab/tab-flat-left-over-sides.gif), frame-bg:url(images/tab/tab-flat-left-over-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-active.x-tab-flat-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-top-active-corners.gif), sides:url(images/tab/tab-flat-top-active-sides.gif), frame-bg:url(images/tab/tab-flat-top-active-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-active.x-tab-flat-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-right-active-corners.gif), sides:url(images/tab/tab-flat-right-active-sides.gif), frame-bg:url(images/tab/tab-flat-right-active-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-active.x-tab-flat-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-bottom-active-corners.gif), sides:url(images/tab/tab-flat-bottom-active-sides.gif), frame-bg:url(images/tab/tab-flat-bottom-active-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-active.x-tab-flat-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-left-active-corners.gif), sides:url(images/tab/tab-flat-left-active-sides.gif), frame-bg:url(images/tab/tab-flat-left-active-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-flat-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-top-focus-over-corners.gif), sides:url(images/tab/tab-flat-top-focus-over-sides.gif), frame-bg:url(images/tab/tab-flat-top-focus-over-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-flat-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-right-focus-over-corners.gif), sides:url(images/tab/tab-flat-right-focus-over-sides.gif), frame-bg:url(images/tab/tab-flat-right-focus-over-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-flat-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-bottom-focus-over-corners.gif), sides:url(images/tab/tab-flat-bottom-focus-over-sides.gif), frame-bg:url(images/tab/tab-flat-bottom-focus-over-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-flat-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-left-focus-over-corners.gif), sides:url(images/tab/tab-flat-left-focus-over-sides.gif), frame-bg:url(images/tab/tab-flat-left-focus-over-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-flat-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-top-focus-active-corners.gif), sides:url(images/tab/tab-flat-top-focus-active-sides.gif), frame-bg:url(images/tab/tab-flat-top-focus-active-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-flat-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-right-focus-active-corners.gif), sides:url(images/tab/tab-flat-right-focus-active-sides.gif), frame-bg:url(images/tab/tab-flat-right-focus-active-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-flat-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-bottom-focus-active-corners.gif), sides:url(images/tab/tab-flat-bottom-focus-active-sides.gif), frame-bg:url(images/tab/tab-flat-bottom-focus-active-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-flat-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-left-focus-active-corners.gif), sides:url(images/tab/tab-flat-left-focus-active-sides.gif), frame-bg:url(images/tab/tab-flat-left-focus-active-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-disabled.x-tab-flat-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-top-disabled-corners.gif), sides:url(images/tab/tab-flat-top-disabled-sides.gif), frame-bg:url(images/tab/tab-flat-top-disabled-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-disabled.x-tab-flat-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-right-disabled-corners.gif), sides:url(images/tab/tab-flat-right-disabled-sides.gif), frame-bg:url(images/tab/tab-flat-right-disabled-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-disabled.x-tab-flat-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-bottom-disabled-corners.gif), sides:url(images/tab/tab-flat-bottom-disabled-sides.gif), frame-bg:url(images/tab/tab-flat-bottom-disabled-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-disabled.x-tab-flat-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-flat-left-disabled-corners.gif), sides:url(images/tab/tab-flat-left-disabled-sides.gif), frame-bg:url(images/tab/tab-flat-left-disabled-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:168 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:168 */
 .x-tab-bar-flat {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:207 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:207 */
 .x-tab-bar-flat-top > .x-tab-bar-body-flat {
     padding: 2px 1px 0 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:211 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:211 */
 .x-tab-bar-flat-bottom > .x-tab-bar-body-flat {
     padding: 0 1px 2px 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:215 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:215 */
 .x-tab-bar-flat-left > .x-tab-bar-body-flat {
     padding: 1px 0 1px 2px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:225 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:225 */
 .x-tab-bar-flat-right > .x-tab-bar-body-flat {
     padding: 1px 2px 1px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:238 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:238 */
 .x-tab-bar-plain.x-tab-bar-flat-top > .x-tab-bar-body-flat {
     padding: 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:242 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:242 */
 .x-tab-bar-plain.x-tab-bar-flat-bottom > .x-tab-bar-body-flat {
     padding: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:246 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:246 */
 .x-tab-bar-plain.x-tab-bar-flat-left > .x-tab-bar-body-flat {
     padding: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:256 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:256 */
 .x-tab-bar-plain.x-tab-bar-flat-right > .x-tab-bar-body-flat {
     padding: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:269 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:269 */
 .x-tab-bar-plain.x-tab-bar-flat-horizontal {
     border-top-color: transparent;
     border-bottom-color: transparent;
     border-left-width: 0;
     border-right-width: 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:276 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:276 */
 .x-tab-bar-plain.x-tab-bar-flat-vertical {
     border-right-color: transparent;
     border-left-color: transparent;
     border-top-width: 0;
     border-bottom-width: 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:288 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:288 */
 .x-tab-bar-top > .x-tab-bar-body-flat {
     padding-bottom: 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:292 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:292 */
 .x-tab-bar-bottom > .x-tab-bar-body-flat {
     padding-top: 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:296 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:296 */
 .x-tab-bar-left > .x-tab-bar-body-flat {
     padding-right: 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:307 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:307 */
 .x-tab-bar-right > .x-tab-bar-body-flat {
     padding-left: 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:319 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:319 */
 .x-tab-bar-strip-flat {
     border-style: solid;
     border-color: white;
     background-color: white;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:326 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:326 */
 .x-tab-bar-top > .x-tab-bar-strip-flat {
     border-width: 0 0;
     height: 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:330 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:330 */
 .x-tab-bar-top.x-tab-bar-plain > .x-tab-bar-strip-flat {
     border-width: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:336 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:336 */
 .x-tab-bar-bottom > .x-tab-bar-strip-flat {
     border-width: 0 0 0 0;
     height: 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:340 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:340 */
 .x-tab-bar-bottom.x-tab-bar-plain > .x-tab-bar-strip-flat {
     border-width: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:346 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:346 */
 .x-tab-bar-left > .x-tab-bar-strip-flat {
     border-width: 0 0 0 0;
     width: 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:355 */
 .x-tab-bar-left.x-tab-bar-plain > .x-tab-bar-strip-flat {
     border-width: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:366 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:366 */
 .x-tab-bar-right > .x-tab-bar-strip-flat {
     border-width: 0 0 0 0;
     width: 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:375 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:375 */
 .x-tab-bar-right.x-tab-bar-plain > .x-tab-bar-strip-flat {
     border-width: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:390 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:390 */
 .x-tab-bar-horizontal > .x-tab-bar-body-flat {
     min-height: 34px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:393 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:393 */
 .x-ie8m .x-tab-bar-horizontal > .x-tab-bar-body-flat {
     min-height: 29px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:400 */
 .x-tab-bar-vertical > .x-tab-bar-body-flat {
     min-width: 34px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:403 */
 .x-ie8m .x-tab-bar-vertical > .x-tab-bar-body-flat {
     min-width: 29px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:170 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:170 */
 .x-tab-bar-flat-scroller .x-box-scroller-body-horizontal {
     margin-left: 23px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:183 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:183 */
 .x-tab-bar-flat-vertical-scroller .x-box-scroller-body-vertical {
     margin-top: 22px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:188 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:188 */
 .x-box-scroller-tab-bar-flat {
     cursor: pointer;
     color: #fff;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     opacity: 0.5;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:198 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:198 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-hover {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
     opacity: 0.6;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:204 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:204 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-pressed {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
     opacity: 0.7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:210 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:210 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-disabled {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
     opacity: 0.25;
     cursor: default;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:220 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:220 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-left,
 .x-box-scroller-tab-bar-flat.x-box-scroller-right {
     width: 24px;
@@ -1678,21 +1678,21 @@
     top: 50%;
     margin-top: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:247 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:247 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-left {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/flat-scroll-left.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:272 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:272 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-right {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/flat-scroll-right.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:299 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:299 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-top,
 .x-box-scroller-tab-bar-flat.x-box-scroller-bottom {
     height: 24px;
@@ -1700,145 +1700,145 @@
     left: 50%;
     margin-left: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:326 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:326 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-top {
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/flat-scroll-top.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:351 */
 .x-box-scroller-tab-bar-flat.x-box-scroller-bottom {
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/flat-scroll-bottom.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:483 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:483 */
 .x-tab-bar-more-icon {
     background-image: url(images/tab-bar/flat-more.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:500 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:500 */
 .x-tab-bar-plain.x-tab-bar-flat-scroller .x-box-scroller-body-horizontal {
     margin-left: 24px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:506 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:506 */
 .x-tab-bar-plain.x-tab-bar-flat-vertical-scroller .x-box-scroller-body-vertical {
     margin-top: 24px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:511 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:511 */
 .x-tab-bar-plain .x-box-scroller-tab-bar-flat {
     color: #b0b0b0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:559 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:559 */
 .x-tab-bar-flat-top .x-box-scroller-tab-bar-flat {
     margin-top: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:563 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:563 */
 .x-tab-bar-flat-right .x-box-scroller-tab-bar-flat {
     margin-left: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:567 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:567 */
 .x-tab-bar-flat-bottom .x-box-scroller-tab-bar-flat {
     margin-top: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:571 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:571 */
 .x-tab-bar-flat-left .x-box-scroller-tab-bar-flat {
     margin-left: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:580 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:580 */
 .x-box-scroller-tab-bar-flat {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:586 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:586 */
 .x-box-scroller-tab-bar-flat .x-ie8 .x-box-scroller-plain {
     background-color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:598 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:598 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-flat.x-box-scroller-left {
     background-image: url(images/tab-bar/flat-plain-scroll-left.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:604 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:604 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-flat.x-box-scroller-right {
     background-image: url(images/tab-bar/flat-plain-scroll-right.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:610 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:610 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-flat.x-box-scroller-top {
     background-image: url(images/tab-bar/flat-plain-scroll-top.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:616 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:616 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-flat.x-box-scroller-bottom {
     background-image: url(images/tab-bar/flat-plain-scroll-bottom.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-flat-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-flat-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-flat-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-flat-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:69 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:69 */
 .x-tab.x-tab-active.x-tab-flat {
     /* Активная вкладка */
     -webkit-box-shadow: 4px -2px 8px 0px rgba(34, 60, 80, 0.2);
     -moz-box-shadow: 4px -2px 8px 0px rgba(34, 60, 80, 0.2);
     box-shadow: 4px -2px 8px 0px rgba(34, 60, 80, 0.2);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:76 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:76 */
 .x-tab-active.x-tab-flat-light.x-top,
 .x-tab-active.x-tab-flat.x-top {
     /* Граница активной вкладки */
     border-width: 3px 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:80 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:80 */
 .x-tab-active.x-tab-flat-light.x-left,
 .x-tab-active.x-tab-flat.x-left {
     border-width: 0 0 0 3px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:84 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:84 */
 .x-tab-active.x-tab-flat-light.x-right,
 .x-tab-active.x-tab-flat.x-right {
     border-width: 0 3px 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:88 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:88 */
 .x-tab-active.x-tab-flat-light.x-bottom,
 .x-tab-active.x-tab-flat.x-bottom {
     border-width: 0 0 3px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:94 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:94 */
 .x-tab-flat-light .g-icon-m_color_tab,
 .x-tab-flat .g-icon-m_color_tab {
     /* Значки вкладок */
     filter: url("../../assets/icons/svg-mask/svg-filter.svg#neutral-dark-color");
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:98 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:98 */
 .x-tab-active.x-tab-flat-light .g-icon-m_color_tab,
 .x-tab-active.x-tab-flat .g-icon-m_color_tab {
     filter: url("../../assets/icons/svg-mask/svg-filter.svg#base-color");
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:102 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:102 */
 .x-tab-flat-light-top,
 .x-tab-flat-top {
     border-radius: 4px 4px 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-widgets-top {
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -1850,11 +1850,11 @@
     border-style: solid;
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
 .x-tab-widgets-top-mc {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
 .x-nbr .x-tab-widgets-top {
     padding: 0 !important;
     border-width: 0 !important;
@@ -1866,63 +1866,63 @@
     background-color: transparent !important;
     box-shadow: none !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
 .x-tab-widgets-top-frameInfo {
     font-family: th-4-4-4-4-0-0-0-0-8-8-8-8;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
 .x-tab-widgets-top-tl {
     background-position: 0 -8px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
 .x-tab-widgets-top-tr {
     background-position: right -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-tab-widgets-top-bl {
     background-position: 0 -16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
 .x-tab-widgets-top-br {
     background-position: right -20px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
 .x-tab-widgets-top-ml {
     background-position: 0 top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
 .x-tab-widgets-top-mr {
     background-position: right top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
 .x-tab-widgets-top-tc {
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
 .x-tab-widgets-top-bc {
     background-position: 0 -4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
 .x-tab-widgets-top-tr,
 .x-tab-widgets-top-br,
 .x-tab-widgets-top-mr {
     padding-right: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
 .x-tab-widgets-top-tl,
 .x-tab-widgets-top-bl,
 .x-tab-widgets-top-ml {
     padding-left: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
 .x-tab-widgets-top-tc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
 .x-tab-widgets-top-bc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
 .x-tab-widgets-top-tl,
 .x-tab-widgets-top-bl,
 .x-tab-widgets-top-tr,
@@ -1933,23 +1933,23 @@
 .x-tab-widgets-top-mr {
     background-image: url(images/tab/tab-widgets-top-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
 .x-tab-widgets-top-ml,
 .x-tab-widgets-top-mr {
     background-image: url(images/tab/tab-widgets-top-sides.gif);
     background-repeat: repeat-y;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
 .x-tab-widgets-top-mc {
     padding: 4px 4px 4px 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-widgets-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:4px 4px 4px 4px, corners:url(images/tab/tab-widgets-top-corners.gif), sides:url(images/tab/tab-widgets-top-sides.gif)" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-widgets-bottom {
     -moz-border-radius-topleft: 4px;
     -webkit-border-top-left-radius: 4px;
@@ -1968,11 +1968,11 @@
     border-style: solid;
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
 .x-tab-widgets-bottom-mc {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
 .x-nbr .x-tab-widgets-bottom {
     padding: 0 !important;
     border-width: 0 !important;
@@ -1984,63 +1984,63 @@
     background-color: transparent !important;
     box-shadow: none !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
 .x-tab-widgets-bottom-frameInfo {
     font-family: th-4-4-4-4-0-0-0-0-8-8-8-8;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
 .x-tab-widgets-bottom-tl {
     background-position: 0 -8px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
 .x-tab-widgets-bottom-tr {
     background-position: right -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-tab-widgets-bottom-bl {
     background-position: 0 -16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
 .x-tab-widgets-bottom-br {
     background-position: right -20px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
 .x-tab-widgets-bottom-ml {
     background-position: 0 bottom;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
 .x-tab-widgets-bottom-mr {
     background-position: right bottom;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
 .x-tab-widgets-bottom-tc {
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
 .x-tab-widgets-bottom-bc {
     background-position: 0 -4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
 .x-tab-widgets-bottom-tr,
 .x-tab-widgets-bottom-br,
 .x-tab-widgets-bottom-mr {
     padding-right: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
 .x-tab-widgets-bottom-tl,
 .x-tab-widgets-bottom-bl,
 .x-tab-widgets-bottom-ml {
     padding-left: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
 .x-tab-widgets-bottom-tc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
 .x-tab-widgets-bottom-bc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
 .x-tab-widgets-bottom-tl,
 .x-tab-widgets-bottom-bl,
 .x-tab-widgets-bottom-tr,
@@ -2051,23 +2051,23 @@
 .x-tab-widgets-bottom-mr {
     background-image: url(images/tab/tab-widgets-bottom-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
 .x-tab-widgets-bottom-ml,
 .x-tab-widgets-bottom-mr {
     background-image: url(images/tab/tab-widgets-bottom-sides.gif);
     background-repeat: repeat-y;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
 .x-tab-widgets-bottom-mc {
     padding: 4px 4px 4px 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-widgets-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:4px 4px 4px 4px, corners:url(images/tab/tab-widgets-bottom-corners.gif), sides:url(images/tab/tab-widgets-bottom-sides.gif)" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-widgets-left {
     -moz-border-radius-topleft: 4px;
     -webkit-border-top-left-radius: 4px;
@@ -2086,11 +2086,11 @@
     border-style: solid;
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
 .x-tab-widgets-left-mc {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
 .x-nbr .x-tab-widgets-left {
     padding: 0 !important;
     border-width: 0 !important;
@@ -2102,63 +2102,63 @@
     background-color: transparent !important;
     box-shadow: none !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
 .x-tab-widgets-left-frameInfo {
     font-family: th-4-4-4-4-0-0-0-0-8-8-8-8;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
 .x-tab-widgets-left-tl {
     background-position: 0 -8px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
 .x-tab-widgets-left-tr {
     background-position: right -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-tab-widgets-left-bl {
     background-position: 0 -16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
 .x-tab-widgets-left-br {
     background-position: right -20px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
 .x-tab-widgets-left-ml {
     background-position: 0 top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
 .x-tab-widgets-left-mr {
     background-position: right top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
 .x-tab-widgets-left-tc {
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
 .x-tab-widgets-left-bc {
     background-position: 0 -4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
 .x-tab-widgets-left-tr,
 .x-tab-widgets-left-br,
 .x-tab-widgets-left-mr {
     padding-right: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
 .x-tab-widgets-left-tl,
 .x-tab-widgets-left-bl,
 .x-tab-widgets-left-ml {
     padding-left: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
 .x-tab-widgets-left-tc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
 .x-tab-widgets-left-bc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
 .x-tab-widgets-left-tl,
 .x-tab-widgets-left-bl,
 .x-tab-widgets-left-tr,
@@ -2169,23 +2169,23 @@
 .x-tab-widgets-left-mr {
     background-image: url(images/tab/tab-widgets-left-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
 .x-tab-widgets-left-ml,
 .x-tab-widgets-left-mr {
     background-image: url(images/tab/tab-widgets-left-sides.gif);
     background-repeat: repeat-y;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
 .x-tab-widgets-left-mc {
     padding: 4px 4px 4px 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-widgets-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:4px 4px 4px 4px, corners:url(images/tab/tab-widgets-left-corners.gif), sides:url(images/tab/tab-widgets-left-sides.gif)" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-widgets-right {
     -moz-border-radius-topleft: 4px;
     -webkit-border-top-left-radius: 4px;
@@ -2204,11 +2204,11 @@
     border-style: solid;
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:237 */
 .x-tab-widgets-right-mc {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:264 */
 .x-nbr .x-tab-widgets-right {
     padding: 0 !important;
     border-width: 0 !important;
@@ -2220,63 +2220,63 @@
     background-color: transparent !important;
     box-shadow: none !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:281 */
 .x-tab-widgets-right-frameInfo {
     font-family: th-4-4-4-4-0-0-0-0-8-8-8-8;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:347 */
 .x-tab-widgets-right-tl {
     background-position: 0 -8px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:351 */
 .x-tab-widgets-right-tr {
     background-position: right -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-tab-widgets-right-bl {
     background-position: 0 -16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:359 */
 .x-tab-widgets-right-br {
     background-position: right -20px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:363 */
 .x-tab-widgets-right-ml {
     background-position: 0 top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:371 */
 .x-tab-widgets-right-mr {
     background-position: right top;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:379 */
 .x-tab-widgets-right-tc {
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:383 */
 .x-tab-widgets-right-bc {
     background-position: 0 -4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:388 */
 .x-tab-widgets-right-tr,
 .x-tab-widgets-right-br,
 .x-tab-widgets-right-mr {
     padding-right: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:394 */
 .x-tab-widgets-right-tl,
 .x-tab-widgets-right-bl,
 .x-tab-widgets-right-ml {
     padding-left: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:400 */
 .x-tab-widgets-right-tc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:403 */
 .x-tab-widgets-right-bc {
     height: 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:407 */
 .x-tab-widgets-right-tl,
 .x-tab-widgets-right-bl,
 .x-tab-widgets-right-tr,
@@ -2287,147 +2287,147 @@
 .x-tab-widgets-right-mr {
     background-image: url(images/tab/tab-widgets-right-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:453 */
 .x-tab-widgets-right-ml,
 .x-tab-widgets-right-mr {
     background-image: url(images/tab/tab-widgets-right-sides.gif);
     background-repeat: repeat-y;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/frame.scss:464 */
 .x-tab-widgets-right-mc {
     padding: 4px 4px 4px 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-widgets-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:4px 4px 4px 4px, corners:url(images/tab/tab-widgets-right-corners.gif), sides:url(images/tab/tab-widgets-right-sides.gif)" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1597 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1597 */
 .x-tab-widgets {
     border-color: #b1cebe;
     cursor: pointer;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1656 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1656 */
 .x-tab-widgets-top {
     margin: 1px 2px 1px 2px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1665 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1665 */
 .x-tab-widgets-top.x-tab-rotate-left {
     margin: 1px 2px 1px 2px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1687 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1687 */
 .x-tab-widgets-top.x-tab-focus {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1716 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1716 */
 .x-tab-widgets-top.x-tab-focus.x-tab-over {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1745 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1745 */
 .x-tab-widgets-top.x-tab-focus.x-tab-active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1771 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1771 */
 .x-tab-widgets-right {
     margin: 2px 1px 2px 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1780 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1780 */
 .x-tab-widgets-right.x-tab-rotate-right {
     margin: 2px 1px 2px 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1802 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1802 */
 .x-tab-widgets-right.x-tab-focus {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1831 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1831 */
 .x-tab-widgets-right.x-tab-focus.x-tab-over {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1860 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1860 */
 .x-tab-widgets-right.x-tab-focus.x-tab-active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1886 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1886 */
 .x-tab-widgets-bottom {
     margin: 1px 2px 1px 2px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1895 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1895 */
 .x-tab-widgets-bottom.x-tab-rotate-left {
     margin: 1px 2px 1px 2px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1917 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1917 */
 .x-tab-widgets-bottom.x-tab-focus {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1946 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1946 */
 .x-tab-widgets-bottom.x-tab-focus.x-tab-over {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1975 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:1975 */
 .x-tab-widgets-bottom.x-tab-focus.x-tab-active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2001 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2001 */
 .x-tab-widgets-left {
     margin: 2px 1px 2px 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2010 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2010 */
 .x-tab-widgets-left.x-tab-rotate-right {
     margin: 2px 1px 2px 1px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2032 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2032 */
 .x-tab-widgets-left.x-tab-focus {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2061 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2061 */
 .x-tab-widgets-left.x-tab-focus.x-tab-over {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2090 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2090 */
 .x-tab-widgets-left.x-tab-focus.x-tab-active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2116 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2116 */
 .x-tab-button-widgets {
     height: 16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2121 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2121 */
 .x-tab-inner-widgets {
     font: normal 13px/16px "Roboto Condensed", helvetica, arial, verdana, sans-serif;
     color: #afafaf;
     max-width: 100%;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2137 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2137 */
 .x-tab-icon-right > .x-tab-inner-widgets,
 .x-tab-icon-left > .x-tab-inner-widgets {
     max-width: calc(100% - 16px);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2145 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2145 */
 .x-tab-icon-el-widgets {
     min-height: 16px;
     background-position: center center;
@@ -2435,112 +2435,112 @@
     line-height: 16px;
     color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2146 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2146 */
 .x-tab-icon-left > .x-tab-icon-el-widgets,
 .x-tab-icon-right > .x-tab-icon-el-widgets {
     width: 16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2151 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2151 */
 .x-tab-icon-top > .x-tab-icon-el-widgets,
 .x-tab-icon-bottom > .x-tab-icon-el-widgets {
     min-width: 16px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2167 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2167 */
 .x-tab-icon-el-widgets.x-tab-glyph {
     opacity: 0.5;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2180 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2180 */
 .x-ie8 .x-tab-icon-el-widgets.x-tab-glyph {
     color: #f3f3f3;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2187 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2187 */
 .x-tab-text.x-tab-icon-left > .x-tab-icon-el-widgets {
     margin-right: 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2198 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2198 */
 .x-tab-text.x-tab-icon-right > .x-tab-icon-el-widgets {
     margin-left: 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2209 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2209 */
 .x-tab-text.x-tab-icon-top > .x-tab-icon-el-widgets {
     margin-bottom: 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2213 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2213 */
 .x-tab-text.x-tab-icon-bottom > .x-tab-icon-el-widgets {
     margin-top: 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2218 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2218 */
 .x-tab-focus.x-tab-widgets {
     border-color: #b1cebe;
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2354 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2354 */
 .x-tab-over.x-tab-widgets {
     border-color: #68a081;
     background-color: #b1cebe;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2410 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2410 */
 .x-tab-over.x-tab-widgets .x-tab-inner-widgets {
     color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2466 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2466 */
 .x-tab-focus.x-tab-over.x-tab-widgets {
     border-color: #68a081;
     background-color: #b1cebe;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2581 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2581 */
 .x-tab.x-tab-active.x-tab-widgets {
     border-color: #559471;
     background-color: white;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2637 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2637 */
 .x-tab.x-tab-active.x-tab-widgets .x-tab-inner-widgets {
     color: #333;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2657 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2657 */
 .x-tab.x-tab-active.x-tab-widgets .x-tab-icon-el {
     color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2665 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2665 */
 .x-ie8 .x-tab.x-tab-active.x-tab-widgets .x-tab-icon-el {
     color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2692 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2692 */
 .x-tab-focus.x-tab-active.x-tab-widgets {
     border-color: #559471;
     background-color: white;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2808 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2808 */
 .x-tab.x-tab-disabled.x-tab-widgets {
     border-color: #b1cebe;
     background-color: #e7e7e7;
     cursor: default;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2868 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2868 */
 .x-tab.x-tab-disabled.x-tab-widgets .x-tab-inner-widgets {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
     opacity: 0.3;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2892 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2892 */
 .x-tab.x-tab-disabled.x-tab-widgets .x-tab-icon-el-widgets {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     opacity: 0.5;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2897 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2897 */
 .x-tab.x-tab-disabled.x-tab-widgets .x-tab-icon-el {
     color: #fff;
     opacity: 0.3;
     filter: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2912 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2912 */
 .x-ie8 .x-tab.x-tab-disabled.x-tab-widgets .x-tab-icon-el {
     color: #eee;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2938 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2938 */
 .x-nbr .x-tab-widgets {
     background-image: none;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-over .x-tab-widgets-top-tl,
 .x-tab-over .x-tab-widgets-top-bl,
 .x-tab-over .x-tab-widgets-top-tr,
@@ -2549,17 +2549,17 @@
 .x-tab-over .x-tab-widgets-top-bc {
     background-image: url(images/tab/tab-widgets-top-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-over .x-tab-widgets-top-ml,
 .x-tab-over .x-tab-widgets-top-mr {
     background-image: url(images/tab/tab-widgets-top-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-over .x-tab-widgets-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-top-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus .x-tab-widgets-top-tl,
 .x-tab-focus .x-tab-widgets-top-bl,
 .x-tab-focus .x-tab-widgets-top-tr,
@@ -2568,17 +2568,17 @@
 .x-tab-focus .x-tab-widgets-top-bc {
     background-image: url(images/tab/tab-widgets-top-focus-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus .x-tab-widgets-top-ml,
 .x-tab-focus .x-tab-widgets-top-mr {
     background-image: url(images/tab/tab-widgets-top-focus-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus .x-tab-widgets-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-top-focus-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-over .x-tab-widgets-top-tl,
 .x-tab-focus.x-tab-over .x-tab-widgets-top-bl,
 .x-tab-focus.x-tab-over .x-tab-widgets-top-tr,
@@ -2587,17 +2587,17 @@
 .x-tab-focus.x-tab-over .x-tab-widgets-top-bc {
     background-image: url(images/tab/tab-widgets-top-focus-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-over .x-tab-widgets-top-ml,
 .x-tab-focus.x-tab-over .x-tab-widgets-top-mr {
     background-image: url(images/tab/tab-widgets-top-focus-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-over .x-tab-widgets-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-top-focus-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-active .x-tab-widgets-top-tl,
 .x-tab.x-tab-active .x-tab-widgets-top-bl,
 .x-tab.x-tab-active .x-tab-widgets-top-tr,
@@ -2606,17 +2606,17 @@
 .x-tab.x-tab-active .x-tab-widgets-top-bc {
     background-image: url(images/tab/tab-widgets-top-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-active .x-tab-widgets-top-ml,
 .x-tab.x-tab-active .x-tab-widgets-top-mr {
     background-image: url(images/tab/tab-widgets-top-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-active .x-tab-widgets-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-top-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-active .x-tab-widgets-top-tl,
 .x-tab-focus.x-tab-active .x-tab-widgets-top-bl,
 .x-tab-focus.x-tab-active .x-tab-widgets-top-tr,
@@ -2625,17 +2625,17 @@
 .x-tab-focus.x-tab-active .x-tab-widgets-top-bc {
     background-image: url(images/tab/tab-widgets-top-focus-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-active .x-tab-widgets-top-ml,
 .x-tab-focus.x-tab-active .x-tab-widgets-top-mr {
     background-image: url(images/tab/tab-widgets-top-focus-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-active .x-tab-widgets-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-top-focus-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-disabled .x-tab-widgets-top-tl,
 .x-tab.x-tab-disabled .x-tab-widgets-top-bl,
 .x-tab.x-tab-disabled .x-tab-widgets-top-tr,
@@ -2644,17 +2644,17 @@
 .x-tab.x-tab-disabled .x-tab-widgets-top-bc {
     background-image: url(images/tab/tab-widgets-top-disabled-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-disabled .x-tab-widgets-top-ml,
 .x-tab.x-tab-disabled .x-tab-widgets-top-mr {
     background-image: url(images/tab/tab-widgets-top-disabled-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-disabled .x-tab-widgets-top-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-top-disabled-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-over .x-tab-widgets-right-tl,
 .x-tab-over .x-tab-widgets-right-bl,
 .x-tab-over .x-tab-widgets-right-tr,
@@ -2663,17 +2663,17 @@
 .x-tab-over .x-tab-widgets-right-bc {
     background-image: url(images/tab/tab-widgets-right-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-over .x-tab-widgets-right-ml,
 .x-tab-over .x-tab-widgets-right-mr {
     background-image: url(images/tab/tab-widgets-right-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-over .x-tab-widgets-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-right-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus .x-tab-widgets-right-tl,
 .x-tab-focus .x-tab-widgets-right-bl,
 .x-tab-focus .x-tab-widgets-right-tr,
@@ -2682,17 +2682,17 @@
 .x-tab-focus .x-tab-widgets-right-bc {
     background-image: url(images/tab/tab-widgets-right-focus-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus .x-tab-widgets-right-ml,
 .x-tab-focus .x-tab-widgets-right-mr {
     background-image: url(images/tab/tab-widgets-right-focus-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus .x-tab-widgets-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-right-focus-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-over .x-tab-widgets-right-tl,
 .x-tab-focus.x-tab-over .x-tab-widgets-right-bl,
 .x-tab-focus.x-tab-over .x-tab-widgets-right-tr,
@@ -2701,17 +2701,17 @@
 .x-tab-focus.x-tab-over .x-tab-widgets-right-bc {
     background-image: url(images/tab/tab-widgets-right-focus-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-over .x-tab-widgets-right-ml,
 .x-tab-focus.x-tab-over .x-tab-widgets-right-mr {
     background-image: url(images/tab/tab-widgets-right-focus-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-over .x-tab-widgets-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-right-focus-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-active .x-tab-widgets-right-tl,
 .x-tab.x-tab-active .x-tab-widgets-right-bl,
 .x-tab.x-tab-active .x-tab-widgets-right-tr,
@@ -2720,17 +2720,17 @@
 .x-tab.x-tab-active .x-tab-widgets-right-bc {
     background-image: url(images/tab/tab-widgets-right-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-active .x-tab-widgets-right-ml,
 .x-tab.x-tab-active .x-tab-widgets-right-mr {
     background-image: url(images/tab/tab-widgets-right-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-active .x-tab-widgets-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-right-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-active .x-tab-widgets-right-tl,
 .x-tab-focus.x-tab-active .x-tab-widgets-right-bl,
 .x-tab-focus.x-tab-active .x-tab-widgets-right-tr,
@@ -2739,17 +2739,17 @@
 .x-tab-focus.x-tab-active .x-tab-widgets-right-bc {
     background-image: url(images/tab/tab-widgets-right-focus-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-active .x-tab-widgets-right-ml,
 .x-tab-focus.x-tab-active .x-tab-widgets-right-mr {
     background-image: url(images/tab/tab-widgets-right-focus-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-active .x-tab-widgets-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-right-focus-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-disabled .x-tab-widgets-right-tl,
 .x-tab.x-tab-disabled .x-tab-widgets-right-bl,
 .x-tab.x-tab-disabled .x-tab-widgets-right-tr,
@@ -2758,17 +2758,17 @@
 .x-tab.x-tab-disabled .x-tab-widgets-right-bc {
     background-image: url(images/tab/tab-widgets-right-disabled-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-disabled .x-tab-widgets-right-ml,
 .x-tab.x-tab-disabled .x-tab-widgets-right-mr {
     background-image: url(images/tab/tab-widgets-right-disabled-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-disabled .x-tab-widgets-right-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-right-disabled-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-over .x-tab-widgets-bottom-tl,
 .x-tab-over .x-tab-widgets-bottom-bl,
 .x-tab-over .x-tab-widgets-bottom-tr,
@@ -2777,17 +2777,17 @@
 .x-tab-over .x-tab-widgets-bottom-bc {
     background-image: url(images/tab/tab-widgets-bottom-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-over .x-tab-widgets-bottom-ml,
 .x-tab-over .x-tab-widgets-bottom-mr {
     background-image: url(images/tab/tab-widgets-bottom-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-over .x-tab-widgets-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-bottom-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus .x-tab-widgets-bottom-tl,
 .x-tab-focus .x-tab-widgets-bottom-bl,
 .x-tab-focus .x-tab-widgets-bottom-tr,
@@ -2796,17 +2796,17 @@
 .x-tab-focus .x-tab-widgets-bottom-bc {
     background-image: url(images/tab/tab-widgets-bottom-focus-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus .x-tab-widgets-bottom-ml,
 .x-tab-focus .x-tab-widgets-bottom-mr {
     background-image: url(images/tab/tab-widgets-bottom-focus-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus .x-tab-widgets-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-bottom-focus-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-over .x-tab-widgets-bottom-tl,
 .x-tab-focus.x-tab-over .x-tab-widgets-bottom-bl,
 .x-tab-focus.x-tab-over .x-tab-widgets-bottom-tr,
@@ -2815,17 +2815,17 @@
 .x-tab-focus.x-tab-over .x-tab-widgets-bottom-bc {
     background-image: url(images/tab/tab-widgets-bottom-focus-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-over .x-tab-widgets-bottom-ml,
 .x-tab-focus.x-tab-over .x-tab-widgets-bottom-mr {
     background-image: url(images/tab/tab-widgets-bottom-focus-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-over .x-tab-widgets-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-bottom-focus-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-active .x-tab-widgets-bottom-tl,
 .x-tab.x-tab-active .x-tab-widgets-bottom-bl,
 .x-tab.x-tab-active .x-tab-widgets-bottom-tr,
@@ -2834,17 +2834,17 @@
 .x-tab.x-tab-active .x-tab-widgets-bottom-bc {
     background-image: url(images/tab/tab-widgets-bottom-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-active .x-tab-widgets-bottom-ml,
 .x-tab.x-tab-active .x-tab-widgets-bottom-mr {
     background-image: url(images/tab/tab-widgets-bottom-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-active .x-tab-widgets-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-bottom-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-active .x-tab-widgets-bottom-tl,
 .x-tab-focus.x-tab-active .x-tab-widgets-bottom-bl,
 .x-tab-focus.x-tab-active .x-tab-widgets-bottom-tr,
@@ -2853,17 +2853,17 @@
 .x-tab-focus.x-tab-active .x-tab-widgets-bottom-bc {
     background-image: url(images/tab/tab-widgets-bottom-focus-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-active .x-tab-widgets-bottom-ml,
 .x-tab-focus.x-tab-active .x-tab-widgets-bottom-mr {
     background-image: url(images/tab/tab-widgets-bottom-focus-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-active .x-tab-widgets-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-bottom-focus-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-disabled .x-tab-widgets-bottom-tl,
 .x-tab.x-tab-disabled .x-tab-widgets-bottom-bl,
 .x-tab.x-tab-disabled .x-tab-widgets-bottom-tr,
@@ -2872,17 +2872,17 @@
 .x-tab.x-tab-disabled .x-tab-widgets-bottom-bc {
     background-image: url(images/tab/tab-widgets-bottom-disabled-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-disabled .x-tab-widgets-bottom-ml,
 .x-tab.x-tab-disabled .x-tab-widgets-bottom-mr {
     background-image: url(images/tab/tab-widgets-bottom-disabled-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-disabled .x-tab-widgets-bottom-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-bottom-disabled-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-over .x-tab-widgets-left-tl,
 .x-tab-over .x-tab-widgets-left-bl,
 .x-tab-over .x-tab-widgets-left-tr,
@@ -2891,17 +2891,17 @@
 .x-tab-over .x-tab-widgets-left-bc {
     background-image: url(images/tab/tab-widgets-left-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-over .x-tab-widgets-left-ml,
 .x-tab-over .x-tab-widgets-left-mr {
     background-image: url(images/tab/tab-widgets-left-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-over .x-tab-widgets-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-left-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus .x-tab-widgets-left-tl,
 .x-tab-focus .x-tab-widgets-left-bl,
 .x-tab-focus .x-tab-widgets-left-tr,
@@ -2910,17 +2910,17 @@
 .x-tab-focus .x-tab-widgets-left-bc {
     background-image: url(images/tab/tab-widgets-left-focus-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus .x-tab-widgets-left-ml,
 .x-tab-focus .x-tab-widgets-left-mr {
     background-image: url(images/tab/tab-widgets-left-focus-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus .x-tab-widgets-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-left-focus-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-over .x-tab-widgets-left-tl,
 .x-tab-focus.x-tab-over .x-tab-widgets-left-bl,
 .x-tab-focus.x-tab-over .x-tab-widgets-left-tr,
@@ -2929,17 +2929,17 @@
 .x-tab-focus.x-tab-over .x-tab-widgets-left-bc {
     background-image: url(images/tab/tab-widgets-left-focus-over-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-over .x-tab-widgets-left-ml,
 .x-tab-focus.x-tab-over .x-tab-widgets-left-mr {
     background-image: url(images/tab/tab-widgets-left-focus-over-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-over .x-tab-widgets-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-left-focus-over-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-active .x-tab-widgets-left-tl,
 .x-tab.x-tab-active .x-tab-widgets-left-bl,
 .x-tab.x-tab-active .x-tab-widgets-left-tr,
@@ -2948,17 +2948,17 @@
 .x-tab.x-tab-active .x-tab-widgets-left-bc {
     background-image: url(images/tab/tab-widgets-left-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-active .x-tab-widgets-left-ml,
 .x-tab.x-tab-active .x-tab-widgets-left-mr {
     background-image: url(images/tab/tab-widgets-left-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-active .x-tab-widgets-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-left-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab-focus.x-tab-active .x-tab-widgets-left-tl,
 .x-tab-focus.x-tab-active .x-tab-widgets-left-bl,
 .x-tab-focus.x-tab-active .x-tab-widgets-left-tr,
@@ -2967,17 +2967,17 @@
 .x-tab-focus.x-tab-active .x-tab-widgets-left-bc {
     background-image: url(images/tab/tab-widgets-left-focus-active-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab-focus.x-tab-active .x-tab-widgets-left-ml,
 .x-tab-focus.x-tab-active .x-tab-widgets-left-mr {
     background-image: url(images/tab/tab-widgets-left-focus-active-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab-focus.x-tab-active .x-tab-widgets-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-left-focus-active-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2957 */
 .x-tab.x-tab-disabled .x-tab-widgets-left-tl,
 .x-tab.x-tab-disabled .x-tab-widgets-left-bl,
 .x-tab.x-tab-disabled .x-tab-widgets-left-tr,
@@ -2986,24 +2986,24 @@
 .x-tab.x-tab-disabled .x-tab-widgets-left-bc {
     background-image: url(images/tab/tab-widgets-left-disabled-corners.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2966 */
 .x-tab.x-tab-disabled .x-tab-widgets-left-ml,
 .x-tab.x-tab-disabled .x-tab-widgets-left-mr {
     background-image: url(images/tab/tab-widgets-left-disabled-sides.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2971 */
 .x-tab.x-tab-disabled .x-tab-widgets-left-mc {
     background-repeat: repeat-x;
     background-image: url(images/tab/tab-widgets-left-disabled-fbg.gif);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2981 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2981 */
 .x-tab-widgets-tl,
 .x-tab-widgets-bl,
 .x-tab-widgets-tr,
 .x-tab-widgets-br {
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)";
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2991 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:2991 */
 .x-tab-widgets .x-tab-close-btn {
     top: 2px;
     right: 2px;
@@ -3011,278 +3011,278 @@
     height: 12px;
     background: url(images/tab/tab-widgets-close.png) 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3013 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3013 */
 .x-tab-widgets .x-tab-close-btn-over {
     background-position: -12px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3023 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3023 */
 .x-tab-widgets .x-tab-close-btn-pressed {
     background-position: -24px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3082 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3082 */
 .x-tab-widgets.x-tab-active .x-tab-close-btn {
     background-position: 0 -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3087 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3087 */
 .x-tab-widgets.x-tab-active .x-tab-close-btn-over {
     background-position: -12px -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3093 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3093 */
 .x-tab-widgets.x-tab-active .x-tab-close-btn-pressed {
     background-position: -24px -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3115 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3115 */
 .x-tab-widgets.x-tab-disabled .x-tab-close-btn {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
     opacity: 0.3;
     background-position: 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3142 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Tab.scss:3142 */
 .x-tab-closable.x-tab-widgets .x-tab-button {
     padding-right: 15px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-widgets-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-top-focus-corners.gif), sides:url(images/tab/tab-widgets-top-focus-sides.gif), frame-bg:url(images/tab/tab-widgets-top-focus-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-widgets-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-right-focus-corners.gif), sides:url(images/tab/tab-widgets-right-focus-sides.gif), frame-bg:url(images/tab/tab-widgets-right-focus-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-widgets-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-bottom-focus-corners.gif), sides:url(images/tab/tab-widgets-bottom-focus-sides.gif), frame-bg:url(images/tab/tab-widgets-bottom-focus-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-widgets-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-left-focus-corners.gif), sides:url(images/tab/tab-widgets-left-focus-sides.gif), frame-bg:url(images/tab/tab-widgets-left-focus-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-over.x-tab-widgets-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-top-over-corners.gif), sides:url(images/tab/tab-widgets-top-over-sides.gif), frame-bg:url(images/tab/tab-widgets-top-over-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-over.x-tab-widgets-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-right-over-corners.gif), sides:url(images/tab/tab-widgets-right-over-sides.gif), frame-bg:url(images/tab/tab-widgets-right-over-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-over.x-tab-widgets-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-bottom-over-corners.gif), sides:url(images/tab/tab-widgets-bottom-over-sides.gif), frame-bg:url(images/tab/tab-widgets-bottom-over-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-over.x-tab-widgets-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-left-over-corners.gif), sides:url(images/tab/tab-widgets-left-over-sides.gif), frame-bg:url(images/tab/tab-widgets-left-over-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-active.x-tab-widgets-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-top-active-corners.gif), sides:url(images/tab/tab-widgets-top-active-sides.gif), frame-bg:url(images/tab/tab-widgets-top-active-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-active.x-tab-widgets-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-right-active-corners.gif), sides:url(images/tab/tab-widgets-right-active-sides.gif), frame-bg:url(images/tab/tab-widgets-right-active-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-active.x-tab-widgets-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-bottom-active-corners.gif), sides:url(images/tab/tab-widgets-bottom-active-sides.gif), frame-bg:url(images/tab/tab-widgets-bottom-active-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-active.x-tab-widgets-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-left-active-corners.gif), sides:url(images/tab/tab-widgets-left-active-sides.gif), frame-bg:url(images/tab/tab-widgets-left-active-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-widgets-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-top-focus-over-corners.gif), sides:url(images/tab/tab-widgets-top-focus-over-sides.gif), frame-bg:url(images/tab/tab-widgets-top-focus-over-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-widgets-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-right-focus-over-corners.gif), sides:url(images/tab/tab-widgets-right-focus-over-sides.gif), frame-bg:url(images/tab/tab-widgets-right-focus-over-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-widgets-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-bottom-focus-over-corners.gif), sides:url(images/tab/tab-widgets-bottom-focus-over-sides.gif), frame-bg:url(images/tab/tab-widgets-bottom-focus-over-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-widgets-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-left-focus-over-corners.gif), sides:url(images/tab/tab-widgets-left-focus-over-sides.gif), frame-bg:url(images/tab/tab-widgets-left-focus-over-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-widgets-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-top-focus-active-corners.gif), sides:url(images/tab/tab-widgets-top-focus-active-sides.gif), frame-bg:url(images/tab/tab-widgets-top-focus-active-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-widgets-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-right-focus-active-corners.gif), sides:url(images/tab/tab-widgets-right-focus-active-sides.gif), frame-bg:url(images/tab/tab-widgets-right-focus-active-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-widgets-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-bottom-focus-active-corners.gif), sides:url(images/tab/tab-widgets-bottom-focus-active-sides.gif), frame-bg:url(images/tab/tab-widgets-bottom-focus-active-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-widgets-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-left-focus-active-corners.gif), sides:url(images/tab/tab-widgets-left-focus-active-sides.gif), frame-bg:url(images/tab/tab-widgets-left-focus-active-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-disabled.x-tab-widgets-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-top-disabled-corners.gif), sides:url(images/tab/tab-widgets-top-disabled-sides.gif), frame-bg:url(images/tab/tab-widgets-top-disabled-fbg.gif), frame:4px 4px 4px 4px, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-disabled.x-tab-widgets-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-right-disabled-corners.gif), sides:url(images/tab/tab-widgets-right-disabled-sides.gif), frame-bg:url(images/tab/tab-widgets-right-disabled-fbg.gif), frame:4px 4px 4px 4px, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-disabled.x-tab-widgets-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-bottom-disabled-corners.gif), sides:url(images/tab/tab-widgets-bottom-disabled-sides.gif), frame-bg:url(images/tab/tab-widgets-bottom-disabled-fbg.gif), frame:4px 4px 4px 4px, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-disabled.x-tab-widgets-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, corners:url(images/tab/tab-widgets-left-disabled-corners.gif), sides:url(images/tab/tab-widgets-left-disabled-sides.gif), frame-bg:url(images/tab/tab-widgets-left-disabled-fbg.gif), frame:4px 4px 4px 4px, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:168 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:168 */
 .x-tab-bar-widgets {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:207 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:207 */
 .x-tab-bar-widgets-top > .x-tab-bar-body-widgets {
     padding: 6px 0 4px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:211 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:211 */
 .x-tab-bar-widgets-bottom > .x-tab-bar-body-widgets {
     padding: 4px 0 6px 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:215 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:215 */
 .x-tab-bar-widgets-left > .x-tab-bar-body-widgets {
     padding: 0 4px 0 6px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:225 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:225 */
 .x-tab-bar-widgets-right > .x-tab-bar-body-widgets {
     padding: 0 6px 0 4px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:238 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:238 */
 .x-tab-bar-plain.x-tab-bar-widgets-top > .x-tab-bar-body-widgets {
     padding: 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:242 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:242 */
 .x-tab-bar-plain.x-tab-bar-widgets-bottom > .x-tab-bar-body-widgets {
     padding: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:246 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:246 */
 .x-tab-bar-plain.x-tab-bar-widgets-left > .x-tab-bar-body-widgets {
     padding: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:256 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:256 */
 .x-tab-bar-plain.x-tab-bar-widgets-right > .x-tab-bar-body-widgets {
     padding: 0 0 0 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:269 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:269 */
 .x-tab-bar-plain.x-tab-bar-widgets-horizontal {
     border-top-color: transparent;
     border-bottom-color: transparent;
     border-left-width: 0;
     border-right-width: 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:276 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:276 */
 .x-tab-bar-plain.x-tab-bar-widgets-vertical {
     border-right-color: transparent;
     border-left-color: transparent;
     border-top-width: 0;
     border-bottom-width: 0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:390 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:390 */
 .x-tab-bar-horizontal > .x-tab-bar-body-widgets {
     min-height: 42px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:393 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:393 */
 .x-ie8m .x-tab-bar-horizontal > .x-tab-bar-body-widgets {
     min-height: 32px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:400 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:400 */
 .x-tab-bar-vertical > .x-tab-bar-body-widgets {
     min-width: 42px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:403 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:403 */
 .x-ie8m .x-tab-bar-vertical > .x-tab-bar-body-widgets {
     min-width: 32px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:170 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:170 */
 .x-tab-bar-widgets-scroller .x-box-scroller-body-horizontal {
     margin-left: 24px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:183 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:183 */
 .x-tab-bar-widgets-vertical-scroller .x-box-scroller-body-vertical {
     margin-top: 18px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:188 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:188 */
 .x-box-scroller-tab-bar-widgets {
     cursor: pointer;
     color: #fff;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     opacity: 0.5;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:198 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:198 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-hover {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
     opacity: 0.6;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:204 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:204 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-pressed {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
     opacity: 0.7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:210 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:210 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-disabled {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
     opacity: 0.25;
     cursor: default;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:220 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:220 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-left,
 .x-box-scroller-tab-bar-widgets.x-box-scroller-right {
     width: 24px;
@@ -3290,21 +3290,21 @@
     top: 50%;
     margin-top: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:247 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:247 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-left {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/widgets-scroll-left.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:272 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:272 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-right {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/widgets-scroll-right.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:299 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:299 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-top,
 .x-box-scroller-tab-bar-widgets.x-box-scroller-bottom {
     height: 24px;
@@ -3312,101 +3312,101 @@
     left: 50%;
     margin-left: -12px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:326 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:326 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-top {
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/widgets-scroll-top.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:351 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/layout/container/Box.scss:351 */
 .x-box-scroller-tab-bar-widgets.x-box-scroller-bottom {
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
     background-image: url(images/tab-bar/widgets-scroll-bottom.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:483 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:483 */
 .x-tab-bar-more-icon {
     background-image: url(images/tab-bar/widgets-more.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:500 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:500 */
 .x-tab-bar-plain.x-tab-bar-widgets-scroller .x-box-scroller-body-horizontal {
     margin-left: 24px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:506 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:506 */
 .x-tab-bar-plain.x-tab-bar-widgets-vertical-scroller .x-box-scroller-body-vertical {
     margin-top: 24px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:511 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:511 */
 .x-tab-bar-plain .x-box-scroller-tab-bar-widgets {
     color: #b0b0b0;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:559 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:559 */
 .x-tab-bar-widgets-top .x-box-scroller-tab-bar-widgets {
     margin-top: -11px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:563 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:563 */
 .x-tab-bar-widgets-right .x-box-scroller-tab-bar-widgets {
     margin-left: -13px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:567 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:567 */
 .x-tab-bar-widgets-bottom .x-box-scroller-tab-bar-widgets {
     margin-top: -13px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:571 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:571 */
 .x-tab-bar-widgets-left .x-box-scroller-tab-bar-widgets {
     margin-left: -11px;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:580 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:580 */
 .x-box-scroller-tab-bar-widgets {
     background-color: #e7e7e7;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:586 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:586 */
 .x-box-scroller-tab-bar-widgets .x-ie8 .x-box-scroller-plain {
     background-color: #fff;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:598 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:598 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-widgets.x-box-scroller-left {
     background-image: url(images/tab-bar/widgets-plain-scroll-left.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:604 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:604 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-widgets.x-box-scroller-right {
     background-image: url(images/tab-bar/widgets-plain-scroll-right.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:610 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:610 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-widgets.x-box-scroller-top {
     background-image: url(images/tab-bar/widgets-plain-scroll-top.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:616 */
+/* /Sencha/ext-6.2.0/classic/theme-neutral/sass/src/tab/Bar.scss:616 */
 .x-box-scroller-plain.x-box-scroller-tab-bar-widgets.x-box-scroller-bottom {
     background-image: url(images/tab-bar/widgets-plain-scroll-bottom.png);
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-widgets-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-widgets-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:top" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-widgets-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:right" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+/* /Sencha/ext-6.2.0/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-bar-widgets-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:left" !important;
 }
-/* D:/Install/Development/Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:133 */
+/* /Sencha/ext-6.2.0/classic/theme-green/sass/src/tab/Bar.scss:133 */
 .x-tab.x-tab-active.x-tab-widgets {
     /* Активная вкладка */
     -webkit-box-shadow: 0px 0px 6px -2px rgba(0, 0, 0, 0.59);
