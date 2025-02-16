@@ -1,12 +1,7 @@
 {
     "name": "gearmagicru/gm-theme-green",
-    "description": "Theme \"Green\" for Control panel (GM Panel)",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "theme"
-    ],
+    "description": "Theme \"Green\" for GM Panel",
+    "keywords": ["gearmagic", "gm-theme", "gm-panel", "theme"],
     "homepage": "https://github.com/gearmagicru/gm-theme-green",
     "type": "theme",
     "license": "GPL-2.0-or-later",
