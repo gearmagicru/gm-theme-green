@@ -86,6 +86,31 @@
     text-align: justify;
 }
 
+/* Поля формы описания */
+.g-help-fld {
+    display: inline-block;
+    width: 16px;
+    height: 20px;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.g-help-fld_checkbox { background-image: url("images/form/checkbox.svg"); }
+.g-help-fld_date { background-image: url("images/form/datefield.svg"); }
+.g-help-fld_display { background-image: url("images/form/displayfield.svg"); }
+.g-help-fld_file { background-image: url("images/form/filefield.svg"); }
+.g-help-fld_hidden { background-image: url("images/form/hiddenfield.svg"); }
+.g-help-fld_editor { background-image: url("images/form/htmleditor.svg"); }
+.g-help-fld_number { background-image: url("images/form/numberfield.svg"); }
+.g-help-fld_radio { background-image: url("images/form/radio.svg"); }
+.g-help-fld_spinner { background-image: url("images/form/spinnerfield.svg"); }
+.g-help-fld_textarea { background-image: url("images/form/textarea.svg"); }
+.g-help-fld_text { background-image: url("images/form/textfield.svg"); }
+.g-help-fld_time { background-image: url("images/form/timefield.svg"); }
+.g-help-fld_password { background-image: url("images/form/password.svg"); }
+.g-help-fld_combo { background-image: url("images/form/combobox.svg"); }
+.g-help-fld_listbox { background-image: url("images/form/listbox.svg"); }
+
 /* Изображения */
 .g-help-screen { text-align: center; }
 .g-help-screen img {
